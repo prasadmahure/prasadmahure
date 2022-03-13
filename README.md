@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Programming,
 - 🌱 I’m currently learning ... BE CSE
 - 💞️ I’m looking to collaborate on ... Start UP
-- 📫 How to reach me ... http://prasadmahure.bizonance.in/
+- 📫 How to reach me ... http://prasadmahure.techpointtech.com/
 
 <!---
 prasadmahure/prasadmahure is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
